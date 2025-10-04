@@ -1,4 +1,4 @@
 # Maha-demo
 This is my first Git Repository
 <br>
-Author -MAHA ASIF
+Author -MAHA ASIF (BS IT)
